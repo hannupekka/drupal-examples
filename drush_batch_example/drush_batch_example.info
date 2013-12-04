@@ -1,0 +1,10 @@
+name = Drush batch example
+description = Example how to use Drupal batches with drush
+
+package = Examples
+
+core = 7.x
+
+version = "7.x-1.x-dev"
+
+files[] = drush_batch_example.drush.inc
